@@ -8,11 +8,6 @@ The following code outlines the basic information needed in your manifest.json f
 **The directories of your project should be similar to the following structure**:
 └── part1
     ├── manifest.json
-    ├── icons
-    │   ├── nasapod16x16.png
-    │   ├── nasapod32x32.png
-    │   ├── nasapod48x48.png
-    │   └── nasapod128x128.png
     ├── images
     │   └── stars.jpeg
     └── popup
